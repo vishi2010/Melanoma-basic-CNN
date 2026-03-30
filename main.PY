@@ -322,7 +322,7 @@ axes[1, 1].grid(True)
 
 plt.tight_layout()
 plt.savefig('melanoma_training_history.png', dpi=300, bbox_inches='tight')
-print("\n✅ Training history saved to 'melanoma_training_history.png'")
+print("\nTraining history saved to 'melanoma_training_history.png'")
 
 print("\n" + "="*80)
 print("TRAINING COMPLETE!")

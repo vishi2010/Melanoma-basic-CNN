@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 import os
 
 
-IMAGE_FOLDER = "/Users/vishishtbhatnagar/Downloads/train 2"
-CSV_FILE = "/Users/vishishtbhatnagar/Downloads/ISIC_2020_Training_GroundTruth (1).csv"
+IMAGE_FOLDER = "ENTER_YOUR_DATASET_LOCATION"
+CSV_FILE = "ENTER_YOUR_DATASET_KEY_LOCATION"
 
 # the dimensions or something 
 
